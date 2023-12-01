@@ -1,5 +1,5 @@
 # Poll Ev Bot
-Spam a `pollev.com` poll for your classes. Currently only compatible with Firefox.
+Spam a `pollev.com` poll for your classes. Currently only compatible with Firefox (which you should be using anyway).
 
 #### Installation
 - `python3 -m venv .venv`
@@ -8,5 +8,5 @@ Spam a `pollev.com` poll for your classes. Currently only compatible with Firefo
 
 #### Options
 - Number of repetitions
-- Name of presenter (`pollev.com/name`)
+- Name of presenter (the part after `pollev.com/`)
 - Poll option
